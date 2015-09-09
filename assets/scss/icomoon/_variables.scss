@@ -2,7 +2,7 @@
 // Variables
 
 // URL to base font directory
-$icon-font-path: "../fonts/";
+$icon-font-path: "../fonts/" !default;
 
 // Name of font
-$icon-font-name: "icomoon";
+$icon-font-name: "icomoon" !default;
